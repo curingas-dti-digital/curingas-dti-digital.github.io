@@ -6,5 +6,6 @@ body {
 }
 
 .slideshow-container {
-  height: 100vh;
+  width: 1920px;
+  height: 1080px;
 }
