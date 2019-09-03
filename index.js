@@ -33,5 +33,6 @@ function showSlides() {
   }
   i++;
   document.getElementById('slideshow-viewport').src = slides[i].page;
+  document.getElementById('slideshow-viewport').contentWindow.location.href;
   setTimeout(showSlides, slides[i].seconds * 1000); // Change image every 2 seconds
 }
