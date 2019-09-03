@@ -1,9 +1,25 @@
 var slideIndex = 0;
 const slides = [
-  { page: 'https://curingas-dti-digital.github.io/curingas-dti-gestao-a-vista', seconds: 90 },
   {
+    name: 'Ritos Tribo',
     page:
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vSNdMwLmKshoFx0i8LKIpuPhOiSEorQBMtUKt6LPWVRnCDWtJQCQ_WKxSQP_91ZZUdvHs635VDehn9H/pubhtml?gid=1795008378&single=true',
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQk9bPzyaZ-zuR1iazktzgY18D_2ZERRL9zI3ibxmHjGlT6cQ5_DkVoe2Ig-kyG-J8o3a9GLf_P9xB7/pubhtml?gid=1746976292&single=true',
+    seconds: 60
+  },
+  {
+    name: 'Diagnóstico',
+    page:
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQk9bPzyaZ-zuR1iazktzgY18D_2ZERRL9zI3ibxmHjGlT6cQ5_DkVoe2Ig-kyG-J8o3a9GLf_P9xB7/pubhtml?gid=1503450989&single=true',
+    seconds: 60
+  },
+  {
+    name: '1-1',
+    page: 'https://curingas-dti-digital.github.io/curingas-dti-gestao-a-vista',
+    seconds: 60
+  },
+  {
+    name: 'Backlog marketing',
+    page: 'https://trello.com/b/SQEq3qCq/curingas-rubix-marketing',
     seconds: 30
   }
 ];
