@@ -19,7 +19,7 @@ const slides = [
   },
   {
     name: 'Backlog marketing',
-    page: 'https://trello.com/b/SQEq3qCq/curingas-rubix-marketing',
+    page: 'https://trello.com/b/SQEq3qCq',
     seconds: 30
   }
 ];
