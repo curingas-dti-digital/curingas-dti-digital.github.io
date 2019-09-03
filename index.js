@@ -16,11 +16,6 @@ const slides = [
     name: '1-1',
     page: 'https://curingas-dti-digital.github.io/curingas-dti-gestao-a-vista',
     seconds: 60
-  },
-  {
-    name: 'Backlog marketing',
-    page: 'https://trello.com/b/SQEq3qCq.html',
-    seconds: 30
   }
 ];
 
