@@ -19,7 +19,7 @@ const slides = [
   },
   {
     name: 'Backlog marketing',
-    page: 'https://trello.com/b/SQEq3qCq',
+    page: 'https://trello.com/b/SQEq3qCq.html',
     seconds: 30
   }
 ];
