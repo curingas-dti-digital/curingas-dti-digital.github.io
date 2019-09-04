@@ -19,7 +19,7 @@ const slides = [
   }
 ];
 
-let i = -1;
+var i = -1;
 showSlides();
 
 function showSlides() {
