@@ -13,6 +13,17 @@ const slides = [
     seconds: 60
   },
   {
+    name: 'Sonar',
+    page: 'http://sonarqube.prodapdev.dtidigital.com.br/projects?sort=-analysis_date',
+    seconds: 60
+  },
+  {
+    name: 'Jira',
+    page:
+      'https://prodap.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10100&cyclePeriod=30000&transitionFx=wipe&random=false',
+    seconds: 60
+  },
+  {
     name: '1-1',
     page: 'https://curingas-dti-digital.github.io/curingas-dti-gestao-a-vista',
     seconds: 60
