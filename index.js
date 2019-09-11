@@ -19,8 +19,7 @@ const slides = [
   },
   {
     name: 'Jira',
-    page:
-      'https://prodap.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10100&cyclePeriod=30000&transitionFx=wipe&random=false',
+    page: 'https://prodap.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10100',
     seconds: 60
   },
   {
