@@ -14,14 +14,14 @@ const slides = [
   },
   {
     name: 'Sonar',
-    page: 'https://sonarqube.prodapdev.dtidigital.com.br/projects?sort=-analysis_date',
+    page: 'http://sonarqube.prodapdev.dtidigital.com.br/projects?sort=-analysis_date',
     seconds: 60
   },
-  {
-    name: 'Jira',
-    page: 'https://prodap.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10100',
-    seconds: 60
-  },
+  // {
+  //   name: 'Jira',
+  //   page: 'https://prodap.atlassian.net/plugins/servlet/Wallboard/?dashboardId=10100',
+  //   seconds: 60
+  // },
   {
     name: '1-1',
     page: 'https://curingas-dti-digital.github.io/curingas-dti-gestao-a-vista',
