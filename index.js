@@ -14,7 +14,7 @@ const slides = [
   },
   {
     name: 'Sonar',
-    page: 'http://sonarqube.prodapdev.dtidigital.com.br/projects?sort=-analysis_date',
+    page: 'https://sonarqube.prodapdev.dtidigital.com.br/projects?sort=-analysis_date',
     seconds: 60
   },
   {
